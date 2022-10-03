@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7448e5b6.css",
+    "main.js": "/static/js/main.4e2b9558.js",
+    "static/js/787.20063562.chunk.js": "/static/js/787.20063562.chunk.js",
+    "static/media/image-about-hero.jpg": "/static/media/image-about-hero.064b26d30fb374d78ecb.jpg",
+    "static/media/image-web-design-large.jpg": "/static/media/image-web-design-large.8fe8b44b30f05484e55b.jpg",
+    "static/media/image-hero-phone.png": "/static/media/image-hero-phone.d0056b2ec005172d7dd6.png",
+    "static/media/image-real-deal.jpg": "/static/media/image-real-deal.f3117a6413944a461150.jpg",
+    "static/media/image-world-class-talent.jpg": "/static/media/image-world-class-talent.7588c45e2aecce6d9492.jpg",
+    "static/media/image-map-united-kingdom.png": "/static/media/image-map-united-kingdom.f1e269b33425f9c9ff8d.png",
+    "static/media/image-map-canada.png": "/static/media/image-map-canada.dce629d05bc8e73377a2.png",
+    "static/media/image-graphic-design.jpg": "/static/media/image-graphic-design.48db9c2ea330e0510930.jpg",
+    "static/media/illustration-resourceful.svg": "/static/media/illustration-resourceful.c2ec0f612e93b9b2ed3f89bf9a0b9bf0.svg",
+    "static/media/image-map-australia.png": "/static/media/image-map-australia.3afe58f844c7a8db0f71.png",
+    "static/media/illustration-united-kingdom.svg": "/static/media/illustration-united-kingdom.70381d661f8493c11170be9122fb03ce.svg",
+    "static/media/illustration-friendly.svg": "/static/media/illustration-friendly.18c1de56e8d2177eedbf22443fcbddb5.svg",
+    "static/media/illustration-passionate.svg": "/static/media/illustration-passionate.f7cd8dfd325ddd5d325ad26bd5480ff6.svg",
+    "static/media/illustration-canada.svg": "/static/media/illustration-canada.52886c45adec637d9c974d6c1dbf3d38.svg",
+    "static/media/illustration-australia.svg": "/static/media/illustration-australia.1293a65c8f6fdb9613ef4886454c046b.svg",
+    "static/media/image-app-design.jpg": "/static/media/image-app-design.1f02d5b7416fd1c087ad.jpg",
+    "index.html": "/index.html",
+    "static/media/icon-instagram.svg": "/static/media/icon-instagram.b5641a4848b5011df1a779677e6cb590.svg",
+    "static/media/icon-pinterest.svg": "/static/media/icon-pinterest.6109842c4e744e1dcd6d757aeb3f1c75.svg",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.78ae5ffebf2b2dcc8696aed9f69ccf47.svg",
+    "static/media/bg-pattern-two-circles.svg": "/static/media/bg-pattern-two-circles.daeea6c523021cc2e039d1a4f729a9ca.svg",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.f013d57affe6f0577cdc59c02813bab8.svg",
+    "static/media/icon-youtube.svg": "/static/media/icon-youtube.ef414cf2cbdeedef526c8011954fcffe.svg",
+    "static/media/bg-pattern-hero-home.svg": "/static/media/bg-pattern-hero-home.7ee199204417fcc6aaee299b63336235.svg",
+    "static/media/bg-pattern-small-circle.svg": "/static/media/bg-pattern-small-circle.6998c69d139ac33cf6f782c5f75cb64f.svg",
+    "static/media/icon-error.svg": "/static/media/icon-error.fd5e1ede84a613c61261af737d2bf0c7.svg",
+    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.a39ae0d1f45acff97a9650b13149528e.svg",
+    "static/media/icon-right-arrow.svg": "/static/media/icon-right-arrow.7046cd1b7a4a6072a89674a25348f942.svg",
+    "main.7448e5b6.css.map": "/static/css/main.7448e5b6.css.map",
+    "main.4e2b9558.js.map": "/static/js/main.4e2b9558.js.map",
+    "787.20063562.chunk.js.map": "/static/js/787.20063562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7448e5b6.css",
+    "static/js/main.4e2b9558.js"
+  ]
+}

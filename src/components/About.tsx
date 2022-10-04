@@ -4,6 +4,7 @@ import aboutImage from "../assets/about/desktop/image-about-hero.jpg";
 import talentImage from "../assets/about/desktop/image-world-class-talent.jpg";
 import realDealImage from "../assets/about/desktop/image-real-deal.jpg";
 import LocationsSelect from "./shared/LocationsSelect";
+import circles from "../assets/shared/desktop/bg-pattern-two-circles.svg";
 
 const StyledMain = styled.main`
   display: flex;
@@ -78,8 +79,11 @@ const Section = styled.div`
     props.reverse && `flex-direction: row-reverse;`}
   align-items: center;
   gap: 80px;
-  background-color: #fdf3f0;
   border-radius: 15px;
+  background: #fdf3f0 url(${circles}) no-repeat  ${(props: {
+  reverse: boolean;
+}) => !props.reverse && `left`} bottom / 50% ; 
+
   div {
     display: flex;
     flex-direction: column;

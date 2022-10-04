@@ -20,129 +20,128 @@ const data = {
     title: "Web Design",
     description:
       "We build websites that serve as powerful marketing tools and bring memorable brand experiences.",
-    projects: [
-      {
-        title: "Express",
-        description:
-          "A multi-carrier shipping website for ecommerce businesses",
-      },
-      {
-        title: "Transfer",
-        description:
-          "Site for low-cost money transfers and sending money within seconds",
-      },
-      {
-        title: "Photon",
-        description:
-          "A state-of-the-art music player with high-resolution audio and DSP effects",
-      },
-      {
-        title: "Builder",
-        description:
-          "Connects users with local contractors based on their location",
-      },
-      {
-        title: "Blogr",
-        description:
-          "Blogr is a platform for creating an online blog or publication",
-      },
-      {
-        title: "Camp",
-        description:
-          "Get expert training in coding, data, design, and digital marketing",
-      },
-    ],
+    //     projects: [
+    //       {
+    //         title: "Express",
+    //         description:
+    //           "A multi-carrier shipping website for ecommerce businesses",
+    //       },
+    //       {
+    //         title: "Transfer",
+    //         description:
+    //           "Site for low-cost money transfers and sending money within seconds",
+    //       },
+    //       {
+    //         title: "Photon",
+    //         description:
+    //           "A state-of-the-art music player with high-resolution audio and DSP effects",
+    //       },
+    //       {
+    //         title: "Builder",
+    //         description:
+    //           "Connects users with local contractors based on their location",
+    //       },
+    //       {
+    //         title: "Blogr",
+    //         description:
+    //           "Blogr is a platform for creating an online blog or publication",
+    //       },
+    //       {
+    //         title: "Camp",
+    //         description:
+    //           "Get expert training in coding, data, design, and digital marketing",
+    //       },
+    //     ],
   },
   app: {
     title: "App Design",
     description:
       "Our mobile designs bring intuitive digital solutions to your customers right at their fingertips.",
-    projects: [
-      {
-        title: "Express",
-        description:
-          "A multi-carrier shipping website for ecommerce businesses",
-        image: "../assets/app/image-express.jpg",
-      },
-      {
-        title: "Transfer",
-        description:
-          "Site for low-cost money transfers and sending money within seconds",
-        image: "../assets/app/image-transfer.jpg",
-      },
-      {
-        title: "Photon",
-        description:
-          "A state-of-the-art music player with high-resolution audio and DSP effects",
-        image: "../assets/app/image-photon.jpg",
-      },
-      {
-        title: "Builder",
-        description:
-          "Connects users with local contractors based on their location",
-        image: "../assets/app/image-builder.jpg",
-      },
-      {
-        title: "Blogr",
-        description:
-          "Blogr is a platform for creating an online blog or publication",
-        image: "../assets/app/image-blogr.jpg",
-      },
-      {
-        title: "Camp",
-        description:
-          "Get expert training in coding, data, design, and digital marketing",
-        image: "../assets/app/image-camp.jpg",
-      },
-    ],
+    //     projects: [
+    //       {
+    //         title: "Express",
+    //         description:
+    //           "A multi-carrier shipping website for ecommerce businesses",
+    //         image: "../assets/app/image-express.jpg",
+    //       },
+    //       {
+    //         title: "Transfer",
+    //         description:
+    //           "Site for low-cost money transfers and sending money within seconds",
+    //         image: "../assets/app/image-transfer.jpg",
+    //       },
+    //       {
+    //         title: "Photon",
+    //         description:
+    //           "A state-of-the-art music player with high-resolution audio and DSP effects",
+    //         image: "../assets/app/image-photon.jpg",
+    //       },
+    //       {
+    //         title: "Builder",
+    //         description:
+    //           "Connects users with local contractors based on their location",
+    //         image: "../assets/app/image-builder.jpg",
+    //       },
+    //       {
+    //         title: "Blogr",
+    //         description:
+    //           "Blogr is a platform for creating an online blog or publication",
+    //         image: "../assets/app/image-blogr.jpg",
+    //       },
+    //       {
+    //         title: "Camp",
+    //         description:
+    //           "Get expert training in coding, data, design, and digital marketing",
+    //         image: "../assets/app/image-camp.jpg",
+    //       },
+    //     ],
   },
   graphic: {
     title: "Graphic Design",
     description:
       "We deliver eye-catching branding materials that are tailored to meet your business objectives.",
-    projects: [
-      {
-        title: "Express",
-        description:
-          "A multi-carrier shipping website for ecommerce businesses",
-        image: "../assets/graphic/image-express.jpg",
-      },
-      {
-        title: "Transfer",
-        description:
-          "Site for low-cost money transfers and sending money within seconds",
-        image: "../assets/graphic/image-transfer.jpg",
-      },
-      {
-        title: "Photon",
-        description:
-          "A state-of-the-art music player with high-resolution audio and DSP effects",
-        image: "../assets/graphic/image-photon.jpg",
-      },
-      {
-        title: "Builder",
-        description:
-          "Connects users with local contractors based on their location",
-        image: "../assets/graphic/image-builder.jpg",
-      },
-      {
-        title: "Blogr",
-        description:
-          "Blogr is a platform for creating an online blog or publication",
-        image: "../assets/graphic/image-blogr.jpg",
-      },
-      {
-        title: "Camp",
-        description:
-          "Get expert training in coding, data, design, and digital marketing",
-        image: "../assets/graphic/image-camp.jpg",
-      },
-    ],
+    //     projects: [
+    //       {
+    //         title: "Express",
+    //         description:
+    //           "A multi-carrier shipping website for ecommerce businesses",
+    //         image: "../assets/graphic/image-express.jpg",
+    //       },
+    //       {
+    //         title: "Transfer",
+    //         description:
+    //           "Site for low-cost money transfers and sending money within seconds",
+    //         image: "../assets/graphic/image-transfer.jpg",
+    //       },
+    //       {
+    //         title: "Photon",
+    //         description:
+    //           "A state-of-the-art music player with high-resolution audio and DSP effects",
+    //         image: "../assets/graphic/image-photon.jpg",
+    //       },
+    //       {
+    //         title: "Builder",
+    //         description:
+    //           "Connects users with local contractors based on their location",
+    //         image: "../assets/graphic/image-builder.jpg",
+    //       },
+    //       {
+    //         title: "Blogr",
+    //         description:
+    //           "Blogr is a platform for creating an online blog or publication",
+    //         image: "../assets/graphic/image-blogr.jpg",
+    //       },
+    //       {
+    //         title: "Camp",
+    //         description:
+    //           "Get expert training in coding, data, design, and digital marketing",
+    //         image: "../assets/graphic/image-camp.jpg",
+    //       },
+    //     ],
   },
   notFound: {
     title: "Not Found",
     description: "Sorry, we couldn't find that page",
-    projects: [],
   },
 };
 

@@ -1,8 +1,5 @@
 import styled from "styled-components";
 import rightArrow from "../../assets/shared/desktop/icon-right-arrow.svg";
-import graphicDesign from "../../assets/home/desktop/image-graphic-design.jpg";
-import webDesign from "../../assets/home/desktop/image-web-design-large.jpg";
-import appDesign from "../../assets/home/desktop/image-app-design.jpg";
 import { useNavigate } from "react-router-dom";
 
 const StyledCard = styled.div`
@@ -49,13 +46,13 @@ const StyledCard = styled.div`
 const imageSelector = (type: string) => {
   switch (type) {
     case "web":
-      return webDesign;
+      return "/image-web-design-small.jpg";
     case "graphic":
-      return graphicDesign;
+      return "/image-graphic-design.jpg";
     case "app":
-      return appDesign;
+      return "/image-app-design.jpg";
     default:
-      return webDesign;
+      return "/image-web-design-small.jpg";
   }
 };
 const Card = (props: { type: string }) => {
@@ -69,7 +66,7 @@ const Card = (props: { type: string }) => {
           VIEW PROJECTS <img src={rightArrow} alt="right arrow" />
         </span>
       </div>
-      <img src={imageSelector(type.toLowerCase())} alt="Graphic design" />
+      <img src={imageSelector(type.toLowerCase())} alt="design" />
     </StyledCard>
   );
 };
